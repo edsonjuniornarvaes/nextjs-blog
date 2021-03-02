@@ -12,7 +12,6 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Your Self Introduction]</p>
         <p>
           In 2015, I started the Information Systems course, after graduation, at the age of 22, 
           I started my career in the world of programming as a web developer. In the following year, 
